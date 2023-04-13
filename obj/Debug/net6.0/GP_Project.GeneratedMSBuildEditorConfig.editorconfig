@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GP_Project
+build_property.RootNamespace = GP_Project
+build_property.ProjectDir = E:\my vs codes\GP_Project\GP_Project\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\my vs codes\GP_Project\GP_Project
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/my vs codes/GP_Project/GP_Project/Areas/DashboardAdmin/Views/admin/Dash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkQWRtaW5cVmlld3NcYWRtaW5cRGFzaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Areas/DashboardAdmin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Areas/DashboardAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Areas/DashboardAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRGFzaGJvYXJkQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Areas/Edit/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWRpdFxWaWV3c1xIb21lXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Areas/Edit/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWRpdFxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Areas/Edit/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWRpdFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Areas/Edit/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcRWRpdFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Views/UserLink/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckxpbmtcTG9nSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Views/UserLink/Regestration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckxpbmtcUmVnZXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Views/UserLink/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckxpbmtcU2F2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/my vs codes/GP_Project/GP_Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

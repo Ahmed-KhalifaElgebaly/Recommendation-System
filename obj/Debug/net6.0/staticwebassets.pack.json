@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\my vs codes\\GP_Project\\GP_Project\\wwwroot\\DashboardAdmin\\css\\Table.css",
+      "PackagePath": "staticwebassets\\DashboardAdmin\\css\\Table.css"
+    },
+    {
+      "Id": "E:\\my vs codes\\GP_Project\\GP_Project\\wwwroot\\DashboardAdmin\\css\\data.css",
+      "PackagePath": "staticwebassets\\DashboardAdmin\\css\\data.css"
+    },
+    {
+      "Id": "E:\\my vs codes\\GP_Project\\GP_Project\\wwwroot\\DashboardAdmin\\css\\style.css",
+      "PackagePath": "staticwebassets\\DashboardAdmin\\css\\style.css"
+    },
+    {
+      "Id": "E:\\my vs codes\\GP_Project\\GP_Project\\wwwroot\\DashboardAdmin\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\DashboardAdmin\\images\\Logo.png"
+    },
+    {
+      "Id": "E:\\my vs codes\\GP_Project\\GP_Project\\wwwroot\\DashboardAdmin\\js\\index.js",
+      "PackagePath": "staticwebassets\\DashboardAdmin\\js\\index.js"
+    },
+    {
+      "Id": "E:\\my vs codes\\GP_Project\\GP_Project\\wwwroot\\DashboardAdmin\\json\\data.json",
+      "PackagePath": "staticwebassets\\DashboardAdmin\\json\\data.json"
+    },
+    {
+      "Id": "E:\\my vs codes\\GP_Project\\GP_Project\\wwwroot\\SignUp\\css\\SignUp.css",
+      "PackagePath": "staticwebassets\\SignUp\\css\\SignUp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GP_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GP_Project.props",
+      "PackagePath": "build\\GP_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GP_Project.props",
+      "PackagePath": "buildMultiTargeting\\GP_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GP_Project.props",
+      "PackagePath": "buildTransitive\\GP_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
